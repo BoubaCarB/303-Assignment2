@@ -38,6 +38,10 @@ B == Design
   The program uses a menu so the user can test all functions by typing input.
   
 C == Screenshots
+  Program Starts
+  <img width="236" height="308" alt="Screenshot 2026-03-16 at 11 40 52 PM" src="https://github.com/user-attachments/assets/55ce82ed-0835-42e9-b9f8-49185a4ac79f" />
+  
+
   
 
 
